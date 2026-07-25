@@ -1,34 +1,22 @@
-# Task 1 - Exploratory Data Analysis on Retail Sales Dataset
+# OIBSIP - Oasis Infobyte Internship
 
-## Objective
-Perform Exploratory Data Analysis (EDA) on a retail sales dataset to identify sales trends, customer behavior, and business insights.
+Welcome to my Oasis Infobyte AICTE Data Analytics Internship repository.
 
-## Tools Used
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+## Repository Structure
 
-## Dataset
-Retail Sales Dataset
+- Task1_EDA_Retail_Sales
 
-## Project Workflow
-- Imported the dataset
-- Cleaned and explored the data
-- Performed statistical analysis
-- Created visualizations
-- Identified sales trends
-- Generated business recommendations
+## Completed Tasks
 
-## Dataset Limitation
-The dataset contains only Product Categories (Beauty, Clothing, Electronics) and does not include Product Names or Product IDs. Therefore, it is not possible to identify the Top 10 Best-Selling Products.
+### Task 1: Exploratory Data Analysis on Retail Sales Dataset
 
-Instead, this analysis focuses on the Top Selling Product Categories based on the available data.
+- Performed data cleaning and preprocessing.
+- Conducted Exploratory Data Analysis (EDA).
+- Created visualizations using Matplotlib and Seaborn.
+- Generated business insights and recommendations.
 
-## Conclusion
-The EDA provided insights into sales performance, customer demographics, and product category trends. Electronics generated the highest revenue, while Clothing recorded the highest quantity sold. Sales were highest during Q4.
+More tasks will be added as the internship progresses.
 
 ## Author
+
 Tejasree Katharashi
